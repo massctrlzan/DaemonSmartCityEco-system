@@ -4,9 +4,10 @@ class QUest: #or appropriation activity
     obtainable_boolean = self.obtainable_boolean
     serviceable_boolean = self.servicable_boolean
     elevation_level = self.elevation_level
+  
+    particulars = self.particulars # [reward//, valuation, obtainable, servicable,  transferable_bool, responce_limit,  relevant_locations] 
     
-    particulars = self.particulars # [reward//, valuation, obtainable, servicable,  transferable_bool, responce_limit,  ]
-    
+    self.matric = [][] #allows effective reporting of obtainable, serviceable, in relation to location, context and handling
     self.responce = None
 
     
