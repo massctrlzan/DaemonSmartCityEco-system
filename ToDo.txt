@@ -1,0 +1,7 @@
+####Create a Generative class and methodology for Quest and other ojbect base class ...
+
+#Write Services for Court Game Clients and Smart_activity_generalSet
+###Questing/Request Methodology
+###Beacon Methodology
+###Connect_Methodology ///Used for Base Device short_distance interactions
+###Sense_Methodology /// Used for ranged proximity interfacing
