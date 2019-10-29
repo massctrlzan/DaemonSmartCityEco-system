@@ -1,11 +1,11 @@
 class Beacon():
    __init__():
-    smart_interactable = self.smart_interactable
+      smart_interactable = self.smart_interactable
     
     
     
   def close_to():
-    pass
+      pass
     
   def aparent_to():
-    pass
+      pass
