@@ -1,4 +1,4 @@
-# DaemonSmartCityEco-system
+# SmartCityEco
 
 P2P Economic/Organization Network
 
